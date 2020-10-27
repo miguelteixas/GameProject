@@ -35,6 +35,6 @@ This is our first game, developed in two weeks, with no previous programming exp
 Possible enhancements: 
 - New levels, and image floors (different areas of the house);
 - Different tasks to complete; 
-- Other objects to interact to;
+- Other objects to interact with;
 - Refine cat behaviour logic.
 
